@@ -1,0 +1,7 @@
+/* Import a clean, modern Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+/* Apply the font to every element */
+* {
+  font-family: 'Inter', sans-serif !important;
+}
